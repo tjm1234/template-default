@@ -1,0 +1,4 @@
+{
+  "host": "{{projectName}}",
+  "port": "PORT"
+}
