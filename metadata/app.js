@@ -63,7 +63,7 @@ module.exports = function (values) {
 To get started:
 
 	cd {{projectName}}
-	npm run dev
+	npm run dev:h5
 
 		`,
   }
